@@ -1,0 +1,6 @@
+{
+  "name": "Affordable Healthcare for Nebraska",
+  "description": "An advocacy campaign website for working families across Nebraska calling on Congress to lower healthcare costs and make health insurance affordable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
